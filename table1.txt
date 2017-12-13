@@ -33,7 +33,7 @@ Table: Final predicted properties for 468 RV planets using forecaster
   25        ---       Maximum transit duration -34.1% uncertainty [hours]
   26        ---       Maximum transit duration +34.1% uncertainty [hours]
   27        ---       Geometric transit probability [%]
-  38        ---       Planet flag
+  28        ---       Planet flag
 --------------------------------------------------------------------------------
 Note (1): The flag value at the end of each row denotes the following cases:
           0 = No remarks
